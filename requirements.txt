@@ -1,5 +1,6 @@
 pandas
 sqlalchemy
+psycopg2
 openpyxl
 ipykernel
 -e .
