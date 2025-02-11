@@ -1,5 +1,8 @@
 pandas
 sqlalchemy
+pydantic
+rich
+curl_cffi
 psycopg2
 openpyxl
 ipykernel
