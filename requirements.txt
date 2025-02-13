@@ -6,4 +6,5 @@ curl_cffi
 psycopg2
 openpyxl
 ipykernel
+selenium
 -e .
